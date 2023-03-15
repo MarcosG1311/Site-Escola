@@ -2,7 +2,7 @@ header{background-color: rgb(219, 53, 53);
 color: rgb(248, 182, 182);
 display: flex;
 justify-content: space-around;}
-.cabecalho-imagem{width: 13%;}
+.cabecalho-imagem{width: 22%;}
 li {
     display: inline-block;
 }
